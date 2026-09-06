@@ -1,0 +1,58 @@
+{
+  "status": "development",
+  "currency": null,
+  "items": [
+    {
+      "slug": "kopi-o",
+      "name": "Kopi O",
+      "category": "kopi",
+      "description": "Bold black kopi with sugar.",
+      "temperature": ["hot"],
+      "allergens": ["TBD"],
+      "price": null
+    },
+    {
+      "slug": "kopi-c",
+      "name": "Kopi C",
+      "category": "kopi",
+      "description": "Kopi with evaporated milk and sugar.",
+      "temperature": ["hot"],
+      "allergens": ["milk"],
+      "price": null
+    },
+    {
+      "slug": "kopi-o-kosong",
+      "name": "Kopi O Kosong",
+      "category": "kopi",
+      "description": "Bold black kopi, served without sugar.",
+      "temperature": ["hot"],
+      "allergens": ["TBD"],
+      "price": null
+    },
+    {
+      "slug": "kaya-toast",
+      "name": "Kaya Toast",
+      "category": "food",
+      "description": "Crisp toast layered with kaya and butter.",
+      "temperature": ["toasted"],
+      "allergens": ["TBD: expected gluten, egg, milk"],
+      "price": null
+    }
+  ],
+  "retail": [
+    {
+      "slug": "nanyang-coffee-200g",
+      "name": "Nanyang Coffee",
+      "format": "TBD",
+      "netWeightGrams": 200,
+      "status": "concept"
+    },
+    {
+      "slug": "nanyang-coffee-500g",
+      "name": "Nanyang Coffee",
+      "format": "TBD",
+      "netWeightGrams": 500,
+      "status": "concept"
+    }
+  ]
+}
